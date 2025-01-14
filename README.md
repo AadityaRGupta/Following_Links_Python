@@ -1,1 +1,2 @@
 # Following_Links_Python
+In the following python program, the user is prompted for a URL and using urllib the HTML data is read and href=values are extracted from the anchor tags. The tags are scaned at a particular position relative to the first name in the list and the process is repeated number of times. The program also prompts the user for a count and position and when entered, it returns the desired name at the particular position from the value extracted from the URL. 
